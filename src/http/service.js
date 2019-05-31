@@ -1,8 +1,3 @@
-/**
- * 项目中所有的接口都写在此模块中，外部可以按需import引入。(不要全部引入)
- * import { getAdminList, postAdminUser } from '../../service/service.js'
- */
-
 import Vue from 'vue'
 import axios from 'axios'
 import config from '@/config/config.js'
